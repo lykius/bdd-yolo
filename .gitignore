@@ -1,0 +1,10 @@
+bdd100k
+archives
+__pycache__
+.mypy_cache
+.ipynb_checkpoints
+.vscode
+yolo/cfg/bdd.data
+yolo/cfg/bdd.names
+yolo/cfg/bdd.weights
+yolo/cfg/map.results
