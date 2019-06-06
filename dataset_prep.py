@@ -23,8 +23,6 @@ def dataset_preparation() -> None:
             z.extractall()
     print('Done.')
 
-    input('pause')
-
     print('Rearranging directories and files...')
     shutil.rmtree(k.IMG_PATH + '/10k')
     shutil.move(k.IMG_PATH + '/100k/test', k.IMG_PATH)
