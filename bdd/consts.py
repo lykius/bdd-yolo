@@ -23,4 +23,4 @@ IMG_ORIGINAL_SIZE = (1280, 720)
 IMG_REDUCED_SIZE = (416, 256)
 IMG_EXT = '.jpg'
 CLASSES = ['bike', 'bus', 'car', 'motor', 'person', 'rider',
-           'tlight', 'tsign', 'train', 'truck']
+           'traffic light', 'traffic sign', 'train', 'truck']
